@@ -1,0 +1,24 @@
+.button__menu {
+    position: absolute;
+    top: 50px;
+    left: -85px;
+    width: 200px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    height: 40px;
+    font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;    
+    font-weight: 900;
+    line-height: normal;
+    text-align: center;
+    border: none;
+}
+@media screen and (max-width: 1470px) {
+    .button__menu {
+        left: -35px
+    }
+}
+@media screen and (max-width: 1358px) {
+    .button__menu {
+        left: -10px;
+    }
+}
