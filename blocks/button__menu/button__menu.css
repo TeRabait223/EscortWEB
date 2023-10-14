@@ -20,5 +20,6 @@
 @media screen and (max-width: 1358px) {
     .button__menu {
         left: -10px;
+        top: 5px;
     }
 }
