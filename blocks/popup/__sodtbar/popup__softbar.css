@@ -16,5 +16,6 @@
 @media screen and (max-width: 1358px) {
     .popup__softbar {
         left: -10px;
+        top: 55px;
     }
 }
