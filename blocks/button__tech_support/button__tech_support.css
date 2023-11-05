@@ -1,0 +1,25 @@
+.button__tech_support {
+    position: absolute;
+    top: 50px;
+    right: -85px;
+    width: 200px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    height: 40px;
+    font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
+    font-weight: 900;
+    line-height: normal;
+    text-align: center;
+    border: none;
+}
+@media screen  and (max-width: 1470px)  {
+.button__tech_support {
+    right: -35px;
+  }
+}
+@media screen and (max-width: 1358px) {
+    .button__tech_support {
+        right: -10px;
+        top: 5px;
+      }
+}

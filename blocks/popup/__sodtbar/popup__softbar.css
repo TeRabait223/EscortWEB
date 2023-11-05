@@ -1,0 +1,21 @@
+.popup__softbar {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    background-color: #FFFFFF;
+    top: 100px;
+    left: -85px;
+    border-radius: 10px;
+    display: none;
+}
+@media screen and (max-width: 1470px) {
+    .popup__softbar {
+        left: -35px
+    }
+}
+@media screen and (max-width: 1358px) {
+    .popup__softbar {
+        left: -10px;
+        top: 55px;
+    }
+}
